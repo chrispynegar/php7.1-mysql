@@ -7,7 +7,7 @@ By default it assumes your app has a `run.sh` file in the root that runs your te
 ## Run
 
 ```
-docker run -v /path/to/your/app:/app gilbitron/php7.0-mysql
+docker run -v /path/to/your/app:/app elleyeayeme/php7.1-mysql
 ```
 
 ## Acknowledgements
